@@ -1,0 +1,34 @@
+#sun{
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 48px;
+    Color:#f93d4e;
+    margin-bottom: 20px;
+}
+#fri{
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 32px;
+    Color:#151515; 
+}
+#we{
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+Color:rgba(21, 21, 21, 0.7);
+
+}
+#flx{margin-top: 30px;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    align-items: center;
+}
+@media (max-width: 575.98px) {
+     #sun{
+    text-align: center;
+}
+}

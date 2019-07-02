@@ -1,0 +1,46 @@
+#play{
+    background-color: #203A49;
+    height: 50%;
+}
+#what{
+    text-align: center;
+    color:white;
+    font-family: 'Alegreya Sans SC', sans-serif;
+    font-weight: 700;
+    font-size: 45px;
+    line-height:150px; 
+}
+#dd{
+    color: #ffffff;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+    font-family: 'Work Sans', sans-serif;
+    text-align: center;
+}
+#pl{
+    width: 143px;
+    height: 50px;
+    color:white;
+    background-color: #f93d4e;
+    text-align: center;
+    border:none;
+    outline: none;
+    font-weight: bold;
+}
+#plays{
+    text-align: center;
+    line-height:100px; 
+   
+}
+#ss{
+    margin-left: 10px;
+}
+@media (max-width: 575.98px) { 
+    #what {
+        font-size: 31px;}
+        #dd {
+            font-size: 14px;}
+
+
+ }

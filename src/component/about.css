@@ -1,0 +1,46 @@
+#about{
+    font-family: 'Alegreya Sans SC', sans-serif;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 64px;
+    Color:#151515;
+}
+#ims{
+ width: 100%;
+}
+#ab{
+    background-color: #F5F6FA;
+}
+#pp{
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+    Color:rgba(21, 21, 21, 0.7);
+    display: inline-block;
+}
+#oliv{
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 28px;
+    Color:#151515;
+}
+#foun{
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+    Color:#aeb1be;
+}
+#qw{
+    margin-top: 20px;
+}
+
+    @media (max-width: 575.98px) { 
+        #about {
+            font-size: 26px;
+        }
+
+
+     }

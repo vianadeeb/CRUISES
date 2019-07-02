@@ -1,0 +1,83 @@
+#holiday{
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+ margin-top: 30px;
+ margin-bottom: 30px;
+}
+#p{
+width: 80%;
+border:1px solid rgb(131, 129, 129);
+height: 200px;
+border-radius: 10px;
+margin-top: 30px;
+ margin-bottom: 30px;
+}
+#pp{
+    width: 100%;
+    /* border:1px solid rgb(131, 129, 129); */
+    height: 200px;
+    /* border-radius: 10px; */
+    }
+#fp{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    align-items:center;  
+}
+#mod{
+    width: 80%;
+}
+#dep{font-weight: 500;
+    color:  rgb(57, 185, 202);
+}
+#city{
+    color: white;
+   background-image: linear-gradient(to right, rgb(73, 198, 214) , rgb(115, 124, 163));
+}
+#buy{border: none;
+    border-radius: 40px;
+    color: white;
+   background-image: linear-gradient(to right, rgb(73, 198, 214) , rgb(115, 124, 163)); 
+}
+#tim{
+    color: rgb(115, 124, 163);
+}
+#det{
+    margin-right: 20px;
+    width: 103px;
+    height: 37px;
+    border-radius: 27px;
+    color: white;
+    background-image: linear-gradient(to right, rgb(73, 198, 214) , rgb(115, 124, 163));
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+#vi{
+    width: 103px;
+    height: 37px;
+    border-radius: 27px;
+    color: white;
+    background-image: linear-gradient(to right, rgb(73, 198, 214) , rgb(115, 124, 163));
+    border: none;
+    outline: none; 
+    cursor: pointer;
+}
+#diq{
+    height: 1px;
+    background-color: rgb(73, 198, 214);
+  }
+#deq{ margin-left: 10%;
+     width:80%;
+    background-color: rgb(73, 198, 214);
+    height: 1px;
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    align-items:center; 
+}
+
+    

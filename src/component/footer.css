@@ -1,0 +1,90 @@
+#footer{
+    background-color: #303030;
+    height: 90%;
+}
+#quick{
+    font-family: 'Alegreya Sans SC', sans-serif;
+    font-weight:500;
+    font-size: 26px;
+    line-height:120px;
+    Color:#ffffff; 
+    
+}
+.all{
+    font-family: 'Work Sans', sans-serif;
+    font-weight:300;
+    font-size: 16px;
+    line-height:24px;
+    Color:#bbb5b5; 
+    
+}
+#re{
+    margin-top: 35px;
+}
+#con{
+    font-family: 'Alegreya Sans SC', sans-serif;
+    font-weight:500;
+    font-size: 26px;
+    line-height:32px;
+    Color:#ffffff;  
+    line-height:120px;
+}
+#faz{
+    font-weight:400;
+    font-size:24px;
+    line-height:24px;
+    Color:#ffffff;
+    margin-right: 10px;
+}
+#street{
+    font-family: 'Work Sans', sans-serif;
+    font-weight:300;
+    font-size: 16px;
+    line-height:24px;
+    Color:#bbb5b5;  
+}
+#street:hover{
+    color: #ffffff;
+    cursor: pointer;
+}
+#rights{
+    font-family: 'Work Sans', sans-serif;
+    font-weight:300;
+    font-size: 16px;
+    line-height:24px;
+    Color:#bbb5b5; 
+    margin-top: 40px;
+}
+
+@media (max-width: 575.98px) { 
+    
+  p{
+      text-align: center;
+  }
+ }
+
+
+@media (min-width: 576px) and (max-width: 767.98px) { 
+   
+      p{
+        text-align: center;
+    }
+    
+ }
+
+
+@media (min-width: 768px) and (max-width: 991.98px) { 
+   
+ }
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  
+   
+  }
+
+
+@media (min-width: 1200px) { 
+
+
+ }

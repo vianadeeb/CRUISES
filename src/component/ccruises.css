@@ -1,0 +1,52 @@
+#fontp1{
+    font-family: 'Work Sans', sans-serif;
+    font-weight:400;
+    line-height: 28px;
+    font-size:18px;
+    display: inline-block;
+    
+
+}
+#fk1{
+    width: 100%;
+
+}
+#fontp1:hover{
+    Color:#f93d4e;
+}
+#fr1{font-size: 14px;
+    margin-right: 20px;
+    Color:#f93d4e;
+}
+#fr1:hover{
+    color:#2B93FF;
+}
+#x1{margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    align-items: center;
+}
+@media (max-width: 575.98px) { 
+   
+    #x1{
+        display: flex;
+        justify-content: center;
+        flex-direction: row;
+        align-items: center;
+    }
+    #rra1{background-color: white;
+        display: flex;
+        justify-content: center;
+        flex-direction: row;
+        align-items: center;
+    }
+    
+    #fontp1,#fr1,#ana1 {
+        display: flex;
+        justify-content: center;}
+        #fk1 {
+            width: 389px;
+        }
+}

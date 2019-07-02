@@ -1,0 +1,70 @@
+#abou1{
+    width: 100px;
+    height: 1px;
+   background-color: #ffffff;
+   margin-top: 98px;
+   margin-left: 27px;
+}
+#au1{
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    Color:#ffffff;
+    line-height: 200px;
+}
+#ii1{
+    height: 400px;
+    background-color: #728486;
+}
+#ats1{
+    font-family: 'alegreya sans sc', sans-serif;
+    font-weight: 700;
+    font-size:19px;
+    line-height: 73px;
+    Color:#ffffff; 
+    margin-left: 27px; 
+}
+
+@media (max-width: 575.98px) {
+    #ats1 {
+        font-size: 12px;
+  }
+  #au1 {
+    font-size: 12px
+}
+#abou1 {
+    width: 20px;}
+
+  }
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    #ats1 {
+        font-size: 18px;
+  }
+  #au1 {
+    font-size: 12px
+}
+#abou1 {
+    width: 20px;}
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    #ats1 {
+        font-size: 12px;}
+    #abou1 {
+        width: 60px;}
+}
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    #au1{
+        margin-left: 25px;
+    }
+    #ats1 {
+        font-size: 16px;
+    }
+ }
+
+
+@media (min-width: 1200px) { }
